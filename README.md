@@ -33,4 +33,4 @@ Each data entry includes `input` and `output`. The `input` is the prompt provide
 
 ## Baseline
 
-The code for minicpm can be found at [MiniCPM](MniCPM). The original repository is referenced at [MiniCPM repository](https://github.com/OpenBMB/MiniCPM).
+The code for minicpm can be found at [MiniCPM](MiniCPM). The original repository is referenced at [MiniCPM repository](https://github.com/OpenBMB/MiniCPM).
