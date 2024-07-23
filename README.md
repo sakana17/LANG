@@ -2,7 +2,16 @@
 
 ## Dataset Examples
 
-### Dataset Format
+### Access
+
+Our dataset samples are in JSON format and can be accessed in the following way:
+
+```python
+import json
+samples = json.load(open('dataset/en-samples-10.json', encoding='utf-8'))
+```
+
+### Dataset Details
 
 Our dataset samples can be found in the [dataset](dataset) directory. Each data entry includes `input` and `output`. The `input` is the prompt provided to LLMs, and the `output` is a complete lesson plan.
 
@@ -21,3 +30,5 @@ Our dataset samples can be found in the [dataset](dataset) directory. Each data 
 <div style="text-align: center;">
   <img src="imgs/show.png">
 </div>
+
+## Baseline
