@@ -15,7 +15,7 @@ samples = json.load(open('dataset/en-samples-10.json', encoding='utf-8'))
 
 Each data entry includes `id`, `language`, `query`, `input` and `output`. The `query` refers to the user's inquiry (knowledge point), the `input` is the prompt provided to the LLMs, and the `output` is a complete lesson plan.
 
-```python
+```json
 [
     {
         "id": "01",
