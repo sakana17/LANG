@@ -21,16 +21,13 @@ Average word count of lesson plans in English and Chinese:
   <img src="imgs/average words of zh.png" width=80%>
 </div>
 
-
 </div>
-
 
 ### Lesson Plan Showcase
 
 <div style="text-align: center;">
   <img src="imgs/sample.png">
 </div>
-
 
 ### Access
 
@@ -40,7 +37,6 @@ Our dataset samples are available in the [dataset](dataset) directory. The sampl
 import json
 samples = json.load(open('dataset/en-samples-10.json', encoding='utf-8'))
 ```
-
 
 ### Dataset Details
 
@@ -56,11 +52,17 @@ Each data entry includes `id`, `language`, `query`, `input` and `output`. The `q
 }
 ```
 
-
 ## Comparing
 
 Comparison of chapter correction before and after based on GPT Score:
 
 <div style="text-align: center;">
   <img src="imgs/comparing.png">
+</div>
+
+Teacher satisfaction:
+
+<div style="text-align: center;">
+  <img src="imgs/human score on en.png" width=49%>
+  <img src="imgs/human score on zh.png" width=49%>
 </div>
