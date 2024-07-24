@@ -16,7 +16,7 @@ Distribution chart of lesson plans across different educational stages and subje
 
 Average word count of lesson plans in English and Chinese:
 
-<div >
+<div style="text-align: center;">
   <img src="imgs/average words of en.png">
   <img src="imgs/average words of zh.png">
 </div>
