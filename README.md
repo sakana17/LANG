@@ -28,5 +28,5 @@ Each data entry includes `id`, `language`, `query`, `input` and `output`. The `q
 ### Lesson Plan Showcase
 
 <div style="text-align: center;">
-  <img src="imgs/sample.SVG">
+  <img src="imgs/sample.png">
 </div>
