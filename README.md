@@ -4,7 +4,7 @@
 
 ### Statistics
 
-
+#### Distribution
 
 Distribution chart of lesson plans across different educational stages and subjects:
 
@@ -12,7 +12,7 @@ Distribution chart of lesson plans across different educational stages and subje
   <img src="imgs/lesson plan distribution.png">
 </div>
 
-
+#### Length
 
 Average word count of lesson plans in English and Chinese:
 
