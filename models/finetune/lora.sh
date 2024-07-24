@@ -1,16 +1,11 @@
 #! /bin/bash
 
-MODEL=openbmb/MiniCPM-2B-sft-bf16
 OUTPUT_DIR=adapter
 DATA=../../dataset/en-samples-10.json
 
 
 while [[ "$1" != "" ]]; do
     case $1 in
-        -m | --model )
-            shift
-            MODEL=$1
-            ;;
         -d | --data )
             shift
             DATA=$1
@@ -29,7 +24,7 @@ done
 
 
 deepspeed --include localhost:0 finetune.py \
-    --model_name_or_path "$MODEL" \
+    --model_name_or_path openbmb/MiniCPM-2B-sft-bf16 \
     --output_dir "$OUTPUT_DIR" \
     --train_data_path "$DATA" \
     --learning_rate 1e-5 \
