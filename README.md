@@ -13,8 +13,8 @@ Distribution chart of lesson plans across different educational stages and subje
 Average words of lesson plans:
 
 <div style="display: flex;">
-  <img src="imgs/average words of en.png", width="50%">
-  <img src="imgs/average words of zh.png", width="50%">
+  <img src="imgs/average words of en.png", width="49%">
+  <img src="imgs/average words of zh.png", width="49%">
 </div>
 
 ### Lesson Plan Showcase
