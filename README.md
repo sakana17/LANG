@@ -59,7 +59,7 @@ Each data entry includes `id`, `language`, `query`, `input` and `output`. The `q
 
 ## Comparing
 
-Comparison of Chapter Correction Before and After Based on GPT Score:
+Comparison of chapter correction before and after based on GPT Score:
 
 <div style="text-align: center;">
   <img src="imgs/comparing.png">
