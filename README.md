@@ -1,6 +1,6 @@
 # LANG: A Lesson Plan Generation Framework via Multi-Form Interaction with Large Language Models
 
-## Dataset Examples
+## Dataset
 
 ### Statistics
 
@@ -32,15 +32,6 @@ Average word count of lesson plans in English and Chinese:
 </div>
 
 
-### Comparing
-
-Comparison of Chapter Correction Before and After Based on GPT Score:
-
-<div style="text-align: center;">
-  <img src="imgs/comparing.png">
-</div>
-
-
 ### Access
 
 Our dataset samples are available in the [dataset](dataset) directory. The samples are in JSON format and can be accessed as follows:
@@ -64,3 +55,12 @@ Each data entry includes `id`, `language`, `query`, `input` and `output`. The `q
     "output": "..."
 }
 ```
+
+
+## Comparing
+
+Comparison of Chapter Correction Before and After Based on GPT Score:
+
+<div style="text-align: center;">
+  <img src="imgs/comparing.png">
+</div>
