@@ -4,24 +4,33 @@
 
 ### Statistics
 
+
+
 Distribution chart of lesson plans across different educational stages and subjects:
 
 <div style="text-align: center;">
   <img src="imgs/lesson plan distribution.png">
 </div>
 
-Average words of lesson plans:
 
-<div style="display: flex;">
-  <img src="imgs/average words of en.png", width="49%">
-  <img src="imgs/average words of zh.png", width="49%">
+
+Average word count of lesson plans in English and Chinese:
+
+<div >
+  <img src="imgs/average words of en.png">
+  <img src="imgs/average words of zh.png">
 </div>
+
+
+</div>
+
 
 ### Lesson Plan Showcase
 
 <div style="text-align: center;">
   <img src="imgs/sample.png">
 </div>
+
 
 ### Comparing
 
@@ -31,6 +40,7 @@ Comparison of Chapter Correction Before and After Based on GPT Score:
   <img src="imgs/comparing.png">
 </div>
 
+
 ### Access
 
 Our dataset samples are available in the [dataset](dataset) directory. The samples are in JSON format and can be accessed as follows:
@@ -39,6 +49,7 @@ Our dataset samples are available in the [dataset](dataset) directory. The sampl
 import json
 samples = json.load(open('dataset/en-samples-10.json', encoding='utf-8'))
 ```
+
 
 ### Dataset Details
 
