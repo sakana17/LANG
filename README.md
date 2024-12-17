@@ -68,14 +68,6 @@ Teacher satisfaction:
 </div>
 
 ## Demo
-<audio controls="controls">
-    <source src="files/podcast_zh.wav" type="audio/wav" />
-    <source src="music.ogg" type="audio/ogg" />
-    <source src="music.mp3" type="audio/mpeg" />
-    您的浏览器不支持 audio 播放模式！
-</audio>
 
-<audio src="files/podcast_zh.wav?raw=true" controls /></audio>
-<audio src="files/podcast_zh.mov?raw=true" controls /></audio>
+[点击这里播放音频](files/podcast zh.wav)
 
-<audio src="files/podcast_zh.mov" controls /></audio>
