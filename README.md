@@ -22,13 +22,14 @@ Quality analysis of our Plan10k. "P" denotes primary school, "J" denotes junior 
 
 
 #### Visualization of presentation generation.
+Here are the slides for the lesson on “Biodiversity”.
 
 <div style="text-align: center;">
   <img src="imgs/ppt.png">
 </div>
 
 #### Visualization of podcast.
-Here are the slides for the lesson on “Biodiversity”.
+Here is an excerpt of podcast content for the lesson on “Biodiversity”.
 
 <div style="text-align: center;">
   <img src="imgs/podcast.png">
@@ -36,7 +37,6 @@ Here are the slides for the lesson on “Biodiversity”.
 
 
 ### Lesson Plan Showcase
-Here is an excerpt of podcast content for the lesson on “Biodiversity”.
 
 <div style="text-align: center;">
   <img src="imgs/sample.png">
