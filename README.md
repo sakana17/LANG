@@ -43,9 +43,12 @@ Here are the slides for the lesson on “Biodiversity”.
 Here is an excerpt of podcast content for the lesson on “Biodiversity”.
 
 <div style="text-align: center;">
-  <img src="imgs/podcast.png">
+  <img src="imgs/podcast en.png">
 </div>
 
+<div style="text-align: center;">
+  <img src="imgs/podcast zh.png">
+</div>
 
 ### Access
 
