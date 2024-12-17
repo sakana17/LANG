@@ -40,7 +40,7 @@ Here are the slides for the lesson on “Biodiversity”.
 
 
 #### Visualization of podcast.
-Here is an excerpt of podcast content for the lesson on “Biodiversity”.
+Here is an excerpt of podcast content for the lesson on “Biodiversity”, and the audio can be downloaded from here: [en](files/podcast%20en.wav?raw=True), [zh](files/podcast%20zh.wav?raw=True).
 
 <div style="text-align: center;">
   <img src="imgs/podcast en.png">
