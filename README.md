@@ -32,8 +32,12 @@ Here are the lesson plan for the lesson on “Biodiversity”.
 Here are the slides for the lesson on “Biodiversity”.
 
 <div style="text-align: center;">
-  <img src="imgs/ppt.png">
+  <img src="imgs/ppt en.png">
 </div>
+<div style="text-align: center;">
+  <img src="imgs/ppt zh.png">
+</div>
+
 
 #### Visualization of podcast.
 Here is an excerpt of podcast content for the lesson on “Biodiversity”.
