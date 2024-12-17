@@ -75,5 +75,5 @@ Teacher satisfaction:
     您的浏览器不支持 audio 播放模式！
 </audio>
 
-<audio src="files/podcast_zh.wav" controls /></audio>
+<audio src="files/podcast_zh.wav?raw=true" controls /></audio>
 
