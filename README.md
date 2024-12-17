@@ -10,6 +10,7 @@ Quality analysis of our Plan10k. "P" denotes primary school, "J" denotes junior 
   <img src="imgs/plan10k.png">
 </div>
 
+## Visualization
 ### Visualization of lesson plan.
 Here are the lesson plan for the lesson on “Biodiversity”.
 <div style="text-align: center;">
