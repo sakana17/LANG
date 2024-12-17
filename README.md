@@ -4,14 +4,6 @@
 
 ### Statistics
 
-#### Distribution
-
-Distribution chart of lesson plans across different educational stages and subjects:
-
-<div style="text-align: center;">
-  <img src="imgs/lesson plan distribution.png">
-</div>
-
 #### Quality analysis
 
 Quality analysis of our Plan10k. "P" denotes primary school, "J" denotes junior high school, and "H" denotes high school.
