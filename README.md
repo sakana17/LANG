@@ -70,4 +70,4 @@ Teacher satisfaction:
 ## Demo
 
 [English](files/podcast%20en.wav?raw=True)
-[Chinese](https://github.com/ssakana/PPP/blob/main/files/podcast%20zh.wav?raw=True)
+[Chinese](files/podcast%20zh.wav?raw=True)
