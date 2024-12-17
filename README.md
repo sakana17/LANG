@@ -22,9 +22,9 @@ Quality analysis of our Plan10k. "P" denotes primary school, "J" denotes junior 
 
 ### Visualization of lesson plan.
 
-<div style="text-align: center;">
-  <img src="imgs/plan en.png">
-  <img src="imgs/plan zh.png">
+<div style="text-align: center; display: flex;">
+  <img src="imgs/plan en.png" width="49%">
+  <img src="imgs/plan zh.png" width="49%">
 </div>
 
 
