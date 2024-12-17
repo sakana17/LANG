@@ -69,6 +69,7 @@ Teacher satisfaction:
 
 ## Demo
 <audio controls="controls">
+    <source src="files/podcast_zh.wav" type="audio/wav" />
     <source src="music.ogg" type="audio/ogg" />
     <source src="music.mp3" type="audio/mpeg" />
     您的浏览器不支持 audio 播放模式！
