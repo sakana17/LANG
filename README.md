@@ -70,6 +70,7 @@ Teacher satisfaction:
 ## Demo
 
 ||en|zh|
+|-----|-----|-----|
 |plan|[view](files/plan%20en.wav)|[view](files/plan%20en.wav)|
 |ppt|[view](files/ppt%20en.wav)|[view](files/ppt%20en.wav)|
 |podcast|[download](files/podcast%20en.wav?raw=True)|[download](files/podcast%20zh.wav?raw=True)|
