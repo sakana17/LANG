@@ -2,8 +2,6 @@
 
 ## Dataset
 
-### Statistics
-
 #### Quality analysis
 
 Quality analysis of our Plan10k. "P" denotes primary school, "J" denotes junior high school, and "H" denotes high school.
