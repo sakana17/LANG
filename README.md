@@ -69,15 +69,5 @@ Teacher satisfaction:
 
 ## Demo
 
-<audio controls>
-  <source src="files/podcast zh.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="https://github.com/ssakana/PPP/blob/main/files/podcast%20zh.wav?raw=True" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-![点击这里播放音频](files/podcast zh.wav)
 [English](https://github.com/ssakana/PPP/blob/main/files/podcast%20en.wav?raw=True)
 [Chinese](https://github.com/ssakana/PPP/blob/main/files/podcast%20zh.wav?raw=True)
