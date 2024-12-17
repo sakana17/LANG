@@ -12,9 +12,9 @@ Distribution chart of lesson plans across different educational stages and subje
   <img src="imgs/lesson plan distribution.png">
 </div>
 
-#### Length
+#### Quality analysis
 
-Average word count of lesson plans in English and Chinese:
+Quality analysis of our Plan10k. "P" denotes primary school, "J" denotes junior high school, and "H" denotes high school.
 
 <div style="display: flex; flex-direction: column; align-items: center">
   <img src="imgs/plan10k.png" width=80%>
