@@ -68,5 +68,4 @@ Teacher satisfaction:
 </div>
 
 ## Demo
-<audio src="files/podcast zh.wav" type="audio/wav" controls>
-</audio>
+<audio src="files/podcast zh.wav" type="audio/mpeg" controls></audio>
