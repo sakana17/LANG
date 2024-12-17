@@ -85,6 +85,6 @@ The following is a complete set of lesson plan, presentation, and podcast.
 
 ||en|zh|
 |:-----|:-----:|:-----:|
-|plan|[view](files/plan%20en.pdf)|[view](files/plan%20en.pdf)|
-|presentation|[view](files/ppt%20en.pdf)|[view](files/ppt%20en.pdf)|
+|plan|[view](files/plan%20en.pdf)|[view](files/plan%20zh.pdf)|
+|presentation|[view](files/ppt%20en.pdf)|[view](files/ppt%20zh.pdf)|
 |podcast|[download](files/podcast%20en.wav?raw=True)|[download](files/podcast%20zh.wav?raw=True)|
