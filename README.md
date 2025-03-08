@@ -1,4 +1,4 @@
-# LANG: A Lesson Plan Generation Framework via Multi-Form Interaction with Large Language Models
+# LessonAgent: A Holistic Pipeline for Automated Generation of Plans, Presentations, and Podcasts
 
 ## Dataset
 
